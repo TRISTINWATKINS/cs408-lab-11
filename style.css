@@ -1,0 +1,73 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  background-color: #f9f9f9;
+}
+
+header.top-section {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0;
+}
+
+.gray-btn {
+  background-color: #ccc;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1em;
+}
+
+.gray-btn:hover {
+  background-color: #bbb;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+}
+
+thead tr.table-header {
+  background-color: #ccc;
+  font-weight: bold;
+}
+
+th, td {
+  border: 1px solid #999;
+  padding: 10px;
+  text-align: left;
+}
+
+td button.gray-btn {
+  padding: 5px 10px;
+}
+
+.section-divider {
+  border: none;
+  height: 2px;
+  background-color: black;
+  margin: 20px 0;
+}
+
+.add-section label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.add-section input {
+  margin-left: 10px;
+  padding: 5px;
+}
+
+.add-section button.gray-btn {
+  margin-top: 10px;
+}

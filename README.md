@@ -1,8 +1,8 @@
 # Web Dev Starter Code
-
+My Simple Inventory App
 ## Overview
 
-TODO: Write a project description
+This project is a web-based inventory management application that allows users to view, add, and delete items in a database. It uses AWS Lambda and API Gateway as the backend, with a RESTful API to handle CRUD operations. The frontend is built with HTML, CSS, and JavaScript, featuring a dynamic table to display items and interactive forms for adding new inventory entries.
 
 ## Sources and Credits
 
@@ -22,3 +22,10 @@ A simple bulleted list below is sufficient. For example:
 - Icons: https://fontawesome.com/
 - Fonts: https://fonts.google.com/
 - etc.
+
+
+
+So I tried to work on this and no matter how long I sat trying to fix it and troubleshoot it i could not get it to work. At this point the project is late and still cant get it to work so Im sadly giveing up. Maybe Professor shane can help. I used F12 in the website to see whaty was wring and trioubleshoot from there but get these errors 
+This project is a web-based inventory management application that allows users to view, add, and delete items in a database. It uses AWS Lambda and API Gateway as the backend, with a RESTful API to handle CRUD operations. The frontend is built with HTML, CSS, and JavaScript, featuring a dynamic table to display items and interactive forms for adding new inventory entries.
+
+and like I said at this point i can not continue and just need to turn it in
